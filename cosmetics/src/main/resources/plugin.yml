@@ -1,0 +1,7 @@
+name: Cosmetics
+version: '${project.version}'
+main: lemmensthijmen.cosmetics.Cosmetics
+api-version: 1.17
+commands:
+  cosmetics:
+    description: opens the cosmetics screen if you dont have a chets you can use this

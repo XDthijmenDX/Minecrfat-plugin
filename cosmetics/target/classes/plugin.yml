@@ -1,0 +1,4 @@
+name: Cosmetics
+version: '1.0-SNAPSHOT'
+main: lemmensthijmen.cosmetics.Cosmetics
+api-version: 1.17
